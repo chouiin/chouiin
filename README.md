@@ -16,24 +16,11 @@
 
 ---
 
-## 📈 GitHub Stats
-![chouiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chouiin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chouiin&layout=compact&theme=radical)
-
----
-
 ## 🌟 Featured Projects
 - 🚦 [Traffic Congestion Early Warning - LSTM Model](#)
 - 📱 [Health Management Flutter App](#)
 - 👰 [Wedding Invitation AI Agent System](#)
 - 🧑‍🏫 [Digital Bilingual Buddy Program (English Teaching)](#)
-
----
-
-## 📫 Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tyes40415@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#) <!-- 如果你有 LinkedIn 可以放連結 -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
 
 ---
 
