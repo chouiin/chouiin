@@ -4,8 +4,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&lines=  Problem+Solver+•+Team+Player+•+Brave+Explorer" alt="Typing SVG" />
+  <a href="https://github.com/chouiin">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=false&width=500&lines=Problem+Solver+•+Team+Player+•+Brave+Explorer" alt="Typing SVG">
+  </a>
 </p>
+
 ---
 
 ## 🧑‍💻 About Me  
