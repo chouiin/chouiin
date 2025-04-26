@@ -1,11 +1,11 @@
 <!-- 動態打字動畫 -->
 <h1 align="center">
-  👋 Hi there, I'm <span style="color:#4FC3F7;">Pei-Ying Chou (Chouiin)</span>!
+   <span style="color:#4FC3F7;">Hey,this is Hailey Chou</span>!
 </h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&lines=Problem+Solver+•+Team+Player+•+Brave+Explorer" alt="Typing SVG" />
-</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FC3F7&center=true&vCenter=true&width=440&lines=Info+Management+Student+%7C+AI+%2B+App+Dev;Passionate+about+Tech+%2B+Society;Let's+build+things+together!" alt="Typing SVG" />Problem Solver • Team Player • Brave Explorer 
+</p>
 ---
 
 ## 🧑‍💻 About Me  
