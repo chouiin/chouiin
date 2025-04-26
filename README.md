@@ -14,7 +14,7 @@
 &nbsp;![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
 &nbsp;![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
----
+
 
 ## About Me
 
@@ -27,15 +27,11 @@ Skilled in **data analysis**, **system design**, and using **information technol
 **Team worker** with strong communication and collaboration skills.  
 Embracing a **growth mindset**, always eager to learn and take on new challenges.
 
----
-
 ## Highlight Projects
 -  **Traffic Violation Recognition & Automation** — Image recognition system to reduce human error in violation reporting.
 -  **Health Tracking Android App** — Built an ID-based system for daily health logging, with abnormality alerts and data visualization. 
 -  **E-Commerce WEBSITE** —  Designed a platform for buying and selling, with backend product management capabilities.
 -  **Fruit Image Classification System** — Trained an AI model achieving 80% accuracy for agricultural applications.
-
----
 
 ## Special Experience
 -  **Digital Bilingual Buddy Program(Ministry of Education)** – Online English tutor for rural elementary students (1-to-many). 
@@ -43,7 +39,7 @@ Embracing a **growth mindset**, always eager to learn and take on new challenges
 -  **Cultural Product Promotion** – Led digital marketing efforts, selling 30+ local gift sets. 
 -  **Senior IT Tutor** – Assisted 20+ elderly users in adopting smartphones and cloud backup tools.
 
----
+
 
 
 
