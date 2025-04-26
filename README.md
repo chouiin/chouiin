@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey , this is Hailey Chou ! Welcome to my little place !
+  Hey , this is Hailey Chou ! Welcome to my place !
 </h1>
 
 <p align="center">
