@@ -1,10 +1,8 @@
-<h1 align="center">
-  Hey , this is Hailey Chou ! Welcome to my place !
-</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=4FC3F7&width=500&lines=%23ProblemSolver+%23TeamWorker+%23GrowthMindset" alt="Typing SVG" />
-</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4FC3F7&width=500&lines=%23Hey , this is Hailey Chou ! Welcome to my place !" alt="Typing SVG" />
+</h1>
 
 ---
 
@@ -15,8 +13,8 @@ Currently enrolled in the **TAICA Artificial Intelligence Alliance program.**
 
 Skilled in **data analysis**, **system design**, and using **information technology** to solve real-world, cross-disciplinary problems.
 
-A **proactive problem solver** who enjoys turning ideas into practical solutions.  
-A **team player** with strong communication and collaboration skills.  
+**Problem solver** who enjoys turning ideas into practical solutions.  
+**Team worker** with strong communication and collaboration skills.  
 Embracing a **growth mindset**, always eager to learn and take on new challenges.
 
 ---
