@@ -28,14 +28,14 @@ Skilled in **data analysis**, **system design**, and using **information technol
 **Team worker** with strong communication and collaboration skills.  
 Embracing a **growth mindset**, always eager to learn and take on new challenges.
 
-
+## 
 <h1> Highlight Projects </h1>
 -  **Traffic Violation Recognition & Automation** — Image recognition system to reduce human error in violation reporting.
 -  **Health Tracking Android App** — Built an ID-based system for daily health logging, with abnormality alerts and data visualization. 
 -  **E-Commerce WEBSITE** —  Designed a platform for buying and selling, with backend product management capabilities.
 -  **Fruit Image Classification System** — Trained an AI model achieving 80% accuracy for agricultural applications.
 
-
+## 
 <h1> Special Experience  </h1>
 -  **Digital Bilingual Buddy Program(Ministry of Education)** – Online English tutor for rural elementary students (1-to-many). 
 -  **Logistics Assistant Intern** – Managed inventory and coordinated interdepartmental logistics. 
