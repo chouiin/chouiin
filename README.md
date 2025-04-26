@@ -2,17 +2,15 @@
   Hey , this is Hailey Chou ! Welcome to my little place !
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=4FC3F7&width=500&lines=%23ProblemSolver+%23TeamWorker+%23GrowthMindset&repeat=false" alt="Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=4FC3F7&width=500&lines=%23ProblemSolver+%23TeamWorker+%23GrowthMindset&repeat=false)
+
 
 ---
 
 ## About Me  
 
-**Junior at Chung Yuan Christian University.**  
-  **Major in Information Management, Minor in Finance.**  
-**Currently enrolled in the TAICA Artificial Intelligence Alliance program.**
+Study at Chung Yuan Christian University,**majoring in Information Management**,** minoring in Finance.**  
+Currently enrolled in the **TAICA Artificial Intelligence Alliance program.**
 
 Skilled in **data analysis**, **system design**, and using **information technology** to solve real-world, cross-disciplinary problems.
 
