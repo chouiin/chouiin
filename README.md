@@ -17,7 +17,7 @@ Embracing a **growth mindset**, always eager to learn and take on new challenges
 ##  Highlight Projects
 -  **Traffic Violation Recognition & Automation** — Image recognition system to reduce human error in violation reporting.
 -  **Health Tracking Android App** — Built an ID-based system for daily health logging, with abnormality alerts and data visualization. 
--  **E-Commerce WEBSITE** —  Designed a platform for buying and selling, with backend product management capabilities.
+-  **E-Commerce Website** —  Designed a platform for buying and selling, with backend product management capabilities.
 -  **Fruit Image Classification System** — Trained an AI model achieving 80% accuracy for agricultural applications.
 
 ## Special Experience 
