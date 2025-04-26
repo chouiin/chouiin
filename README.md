@@ -43,23 +43,16 @@ Embracing a **growth mindset**, always eager to learn and take on new challenges
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-IDE-007ACC)
 
-#1
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+## Skills
 
-#2
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black)
-
-#3
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-#4
-![Python](https://img.shields.io/badge/Python-3776AB?style=social&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=social&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=social&logo=firebase&logoColor=black)
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+</p>
