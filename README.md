@@ -14,6 +14,9 @@ Skilled in **data analysis**, **system design**, and using **information technol
 **Team worker** with strong communication and collaboration skills.  
 Embracing a **growth mindset**, always eager to learn and take on new challenges.
 
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+
+
 ##  Highlight Projects
 -  **Traffic Violation Recognition & Automation** — Image recognition system to reduce human error in violation reporting.
 -  **Health Tracking Android App** — Built an ID-based system for daily health logging, with abnormality alerts and data visualization. 
