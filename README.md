@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=18&pause=1000&color=4FC3F7&width=500&lines=Hey+,+this+is+Hailey+Chou+!+Welcome+to+my+place+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=17&pause=1000&color=4FC3F7&width=500&lines=Hey+,+this+is+Hailey+Chou+!+Welcome+to+my+place+!" alt="Typing SVG" />
 </h1>
 
 ---
