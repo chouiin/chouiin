@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=20&pause=1000&color=4FC3F7&width=700&lines=Hey+,+this+is+Hailey+Chou+!+Welcome+to+my+place+!" alt="Typing SVG" />
 </h1>
 
-<h1> My Skills  </h1>
+##My Skills
 
 &nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 &nbsp;![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
@@ -17,8 +17,7 @@
 
 
 
-## 
-<h1>About Me </h1>
+## About Me
 Study at Chung Yuan Christian University, **majoring in Information Management**, **minoring in Finance**.  
 Currently enrolled in the **TAICA Artificial Intelligence Alliance program**.
 
@@ -28,15 +27,13 @@ Skilled in **data analysis**, **system design**, and using **information technol
 **Team worker** with strong communication and collaboration skills.  
 Embracing a **growth mindset**, always eager to learn and take on new challenges.
 
-## 
-<h1> Highlight Projects </h1>
+##  Highlight Projects
 -  **Traffic Violation Recognition & Automation** — Image recognition system to reduce human error in violation reporting.
 -  **Health Tracking Android App** — Built an ID-based system for daily health logging, with abnormality alerts and data visualization. 
 -  **E-Commerce WEBSITE** —  Designed a platform for buying and selling, with backend product management capabilities.
 -  **Fruit Image Classification System** — Trained an AI model achieving 80% accuracy for agricultural applications.
 
-## 
-<h1> Special Experience  </h1>
+## Special Experience 
 -  **Digital Bilingual Buddy Program(Ministry of Education)** – Online English tutor for rural elementary students (1-to-many). 
 -  **Logistics Assistant Intern** – Managed inventory and coordinated interdepartmental logistics. 
 -  **Cultural Product Promotion** – Led digital marketing efforts, selling 30+ local gift sets. 
