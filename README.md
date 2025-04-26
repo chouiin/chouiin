@@ -18,20 +18,18 @@ Embracing a **growth mindset**, always eager to learn and take on new challenges
 ---
 
 ## Highlight Projects
--  **Traffic Violation Recognition & Automation** — Image recognition to reduce human error  
--  **Health Tracking Android App** — ID system, daily health logs, abnormal alerts  
--  **E-Commerce Site** — RWD, user login, backend product management  
--  **Fruit Image Classification System** — AI model with ~85% accuracy for farming  
--  **Hospital DB Simulation** — Complex SQL queries & report generation  
-
+-  **Traffic Violation Recognition & Automation** — Image recognition system to reduce human error in violation reporting.
+-  **Health Tracking Android App** — Built an ID-based system for daily health logging, with abnormality alerts and data visualization. 
+-  **E-Commerce WEBSITE** —  Designed a platform for buying and selling, with backend product management capabilities.
+-  **Fruit Image Classification System** — Trained an AI model achieving 80% accuracy for agricultural applications.
+-  
 ---
 
-## Experience
--  **Digital Bilingual Buddy Program** – English tutor for rural children (1-to-many online)  
--  **Logistics Assistant Intern** – Inventory management, interdepartmental coordination  
--  **Cultural Product Promotion** – Digital marketing leader, sold 30+ local gift sets  
--  **Senior IT Tutor** – Helped 20+ elderly users adopt smartphones & backup tools  
-
+## Special Experience
+-  **Digital Bilingual Buddy Program(Ministry of Education)** – Online English tutor for rural elementary students (1-to-many). 
+-  **Logistics Assistant Intern** – Managed inventory and coordinated interdepartmental logistics. 
+-  **Cultural Product Promotion** – Led digital marketing efforts, selling 30+ local gift sets. 
+-  **Senior IT Tutor** – Assisted 20+ elderly users in adopting smartphones and cloud backup tools.
 ---
 
 ## Tech Stack
