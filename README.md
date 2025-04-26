@@ -1,9 +1,9 @@
 <h1 align="center">
-  👋 Hi there, I'm Pei-Ying Chou (Chouiin)!
+  Hey , this is Hailey Chou ! Welcome to my little place !
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4FC3F7&width=500&lines=Problem+Solver+•+Team+Player+•+Brave+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=4FC3F7&width=500&lines=Problem+Solver+•+Team+Player+•+Brave+Explorer" alt="Typing SVG" />
 </p>
 
 ---
