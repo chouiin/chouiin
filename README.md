@@ -1,20 +1,17 @@
-<!-- 動態打字動畫 -->
 <h1 align="center">
-   <span style="color:#4FC3F7;">Hey , this is Hailey Chou</span>!
+  👋 Hi there, I'm Pei-Ying Chou (Chouiin)!
 </h1>
 
 <p align="center">
-  <a href="https://github.com/chouiin">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=false&width=500&lines=Problem+Solver+•+Team+Player+•+Brave+Explorer" alt="Typing SVG">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4FC3F7&width=500&lines=Problem+Solver+•+Team+Player+•+Brave+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me  
-🎓 Junior at Chung Yuan Christian University, majoring in **Information Management** and minoring in **Finance**  
-🧠 Currently taking part in the **TAICA AI Application Program** (2024–2025)  
-💡 Passionate about building solutions that connect **technology**, **education**, and **real-world impact**
+🎓 Junior at Chung Yuan Christian University, majoring in **Information Management**, minoring in **Finance**  
+🧠 Member of **TAICA AI Application Program (2024–2025)**  
+💡 Passionate about using technology to solve real-world problems in education, transportation, and society.
 
 ---
 
@@ -32,24 +29,20 @@
 ---
 
 ## 📌 Highlight Projects
-🔹 **Traffic Violation Recognition & Automation** — Image recognition to reduce human error  
-🔹 **Health Tracking Android App** — Identity system, daily tracking, notifications  
-🔹 **E-Commerce Site** — Responsive design, login system, database integration  
-🔹 **Fruit Image Classification System** — ResNet + LabelImg, 85% accuracy  
-🔹 **Hospital DB Simulation** — Complex SQL queries & reports
+- 🚦 **Traffic Violation Recognition & Automation** — Image recognition to reduce human error  
+- 📱 **Health Tracking Android App** — ID system, daily health logs, abnormal alerts  
+- 🛒 **E-Commerce Site** — RWD, user login, backend product management  
+- 🍎 **Fruit Image Classification System** — AI model with ~85% accuracy for farming  
+- 🏥 **Hospital DB Simulation** — Complex SQL queries & report generation  
 
 ---
 
 ## 🏆 Experience
-- 🧑‍🏫 **Digital Bilingual Buddy Program** – Teaching English to rural children
-- 📦 **Logistics Assistant Intern** – Inventory and interdepartmental coordination
-- 🎨 **Local Culture Promo Leader** – Sold 30+ local gift boxes via digital marketing
-- 👵 **Elderly IT Instructor** – Helped 20+ seniors use smartphones & communication apps
-
+- 🧑‍🏫 **Digital Bilingual Buddy Program** – English tutor for rural children (1-to-many online)  
+- 📦 **Logistics Assistant Intern** – Inventory management, interdepartmental coordination  
+- 📣 **Cultural Product Promotion** – Digital marketing leader, sold 30+ local gift sets  
+- 👵 **Senior IT Tutor** – Helped 20+ elderly users adopt smartphones & backup tools  
 
 ---
 
-## 📬 Let's Connect!
-[![Gmail](https://img.shields.io/badge/Gmail-tyes40415@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tyes40415@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-chouiin-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
 
