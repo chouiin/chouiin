@@ -17,8 +17,7 @@ Embracing a **growth mindset**, always eager to learn and take on new challenges
 
 ---
 
-## My Skills  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+## My Skills  [Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 &nbsp;
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
 &nbsp;
