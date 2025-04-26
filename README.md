@@ -3,6 +3,7 @@
   👋 Hi there, I'm <span style="color:#4FC3F7;">Pei-Ying Chou (Chouiin)</span>!
 </h1>
 <p align="center">
+   Problem Solver • Team Player • Brave Explorer
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FC3F7&center=true&vCenter=true&width=440&lines=Info+Management+Student+%7C+AI+%2B+App+Dev;Passionate+about+Tech+%2B+Society;Let's+build+things+together!" alt="Typing SVG" />
 </p>
 
@@ -45,21 +46,4 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chouiin&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chouiin&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
-## 📬 Let's Connect!
-[![Gmail](https://img.shields.io/badge/Gmail-tyes40415@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tyes40415@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-chouiin-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#) <!-- 加上你的 IG 連結喔 -->
-
----
-
-<p align="center">
-  🌟 Problem Solver • Team Player • Brave Explorer 🌟  
-</p>
 
