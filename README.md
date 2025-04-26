@@ -18,7 +18,6 @@
 ---
 
 <h1>About Me</h1>
----
 
 Study at Chung Yuan Christian University, **majoring in Information Management**, **minoring in Finance**.  
 Currently enrolled in the **TAICA Artificial Intelligence Alliance program**.
