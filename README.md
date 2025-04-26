@@ -9,11 +9,15 @@
 ---
 
 ## About Me  
- Junior at Chung Yuan Christian University, majoring in **Information Management**, minoring in **Finance**  
- Currently taking courses in the **TAICA** Artificial Intelligence Alliance program. 
- Skilled in data analysis, system design, and using information technology to solve real-world, cross-disciplinary problems.
- Always passionate about learning.
+ Junior at Chung Yuan Christian University.
+  Major in Information Management, Minor in Finance.
+ Currently enrolled in the TAICA Artificial Intelligence Alliance program.
 
+ Skilled in data analysis, system design, and using information technology to solve real-world, cross-disciplinary problems.
+
+ A proactive problem solver who enjoys turning ideas into practical solutions.
+ A team player with strong communication and collaboration skills.
+ Embracing a growth mindset, always eager to learn and take on new challenges.
 ---
 
 ## Tech Stack
