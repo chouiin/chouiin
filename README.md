@@ -2,8 +2,9 @@
   Hey , this is Hailey Chou ! Welcome to my little place !
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=4FC3F7&width=500&lines=%23ProblemSolver+%23TeamWorker+%23GrowthMindset&repeat=false)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=4FC3F7&width=500&lines=%23ProblemSolver+%23TeamWorker+%23GrowthMindset" alt="Typing SVG" />
+</p>
 
 ---
 
