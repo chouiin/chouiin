@@ -3,15 +3,16 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=4FC3F7&width=500&lines=%23Problem+Solver+%23Team+Player+%23Brave+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=4FC3F7&width=500&lines=%23Problem+Solver+%23Team+Worker" alt="Typing SVG" />
 </p>
 
 ---
 
 ## About Me  
  Junior at Chung Yuan Christian University, majoring in **Information Management**, minoring in **Finance**  
- Member of **TAICA AI Application Program (2024–2025)**  
- Passionate about using technology to solve real-world problems in education, transportation, and society.
+ Currently taking courses in the **TAICA** Artificial Intelligence Alliance program. 
+ Skilled in data analysis, system design, and using information technology to solve real-world, cross-disciplinary problems.
+ Always passionate about learning.
 
 ---
 
