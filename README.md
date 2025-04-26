@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4FC3F7&width=500&lines=%23Hey , this is Hailey Chou ! Welcome to my place !" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=4FC3F7&width=500&lines=%23Hey , this is Hailey Chou ! Welcome to my place !" alt="Typing SVG" />
 </h1>
 
 ---
