@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=20&pause=1000&color=4FC3F7&width=700&lines=Hey+,+this+is+Hailey+Chou+!+Welcome+to+my+place+!" alt="Typing SVG" />
 </h1>
-====================================
 
 ## My Skills  
 &nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
