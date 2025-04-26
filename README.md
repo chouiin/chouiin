@@ -3,19 +3,19 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=4FC3F7&width=500&lines=Problem+Solver+•+Team+Player+•+Brave+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=4FC3F7&width=500&lines=#Problem+Solver+#+Team+Player+#+Brave+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me  
-🎓 Junior at Chung Yuan Christian University, majoring in **Information Management**, minoring in **Finance**  
-🧠 Member of **TAICA AI Application Program (2024–2025)**  
-💡 Passionate about using technology to solve real-world problems in education, transportation, and society.
+## About Me  
+ Junior at Chung Yuan Christian University, majoring in **Information Management**, minoring in **Finance**  
+ Member of **TAICA AI Application Program (2024–2025)**  
+ Passionate about using technology to solve real-world problems in education, transportation, and society.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -28,20 +28,20 @@
 
 ---
 
-## 📌 Highlight Projects
-- 🚦 **Traffic Violation Recognition & Automation** — Image recognition to reduce human error  
-- 📱 **Health Tracking Android App** — ID system, daily health logs, abnormal alerts  
-- 🛒 **E-Commerce Site** — RWD, user login, backend product management  
-- 🍎 **Fruit Image Classification System** — AI model with ~85% accuracy for farming  
-- 🏥 **Hospital DB Simulation** — Complex SQL queries & report generation  
+## Highlight Projects
+-  **Traffic Violation Recognition & Automation** — Image recognition to reduce human error  
+-  **Health Tracking Android App** — ID system, daily health logs, abnormal alerts  
+-  **E-Commerce Site** — RWD, user login, backend product management  
+-  **Fruit Image Classification System** — AI model with ~85% accuracy for farming  
+-  **Hospital DB Simulation** — Complex SQL queries & report generation  
 
 ---
 
-## 🏆 Experience
-- 🧑‍🏫 **Digital Bilingual Buddy Program** – English tutor for rural children (1-to-many online)  
-- 📦 **Logistics Assistant Intern** – Inventory management, interdepartmental coordination  
-- 📣 **Cultural Product Promotion** – Digital marketing leader, sold 30+ local gift sets  
-- 👵 **Senior IT Tutor** – Helped 20+ elderly users adopt smartphones & backup tools  
+## Experience
+-  **Digital Bilingual Buddy Program** – English tutor for rural children (1-to-many online)  
+-  **Logistics Assistant Intern** – Inventory management, interdepartmental coordination  
+-  **Cultural Product Promotion** – Digital marketing leader, sold 30+ local gift sets  
+-  **Senior IT Tutor** – Helped 20+ elderly users adopt smartphones & backup tools  
 
 ---
 
