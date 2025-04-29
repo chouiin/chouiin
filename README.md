@@ -13,9 +13,8 @@ Skilled in **data analysis**, **system design**, and using **information technol
 **Team worker** with strong communication and collaboration skills.  
 Embracing a **growth mindset**, always eager to learn and take on new challenges.
 
-<h5 align="center">
-  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=20&pause=1000&color=4FC3F7&width=700&lines=More about me : https://chouiin.github.io/PersonalWebsite/" alt="Typing SVG" />
-</h5>
+## More about me
+[ Visit my personal website](https://chouiin.github.io/PersonalWebsite/)
 
 
 
